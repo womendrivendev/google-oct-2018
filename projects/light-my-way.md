@@ -25,4 +25,6 @@ Walking in London at night can be scary & dangerous - it would be good if your m
 
 ## Contributors
 
-[Misa Ogura](https://github.com/MisaOgura)
+| Name | GitHub | Twitter | LinkedIn | Other |
+| :--- | :--- | :--- | :--- | :--- |
+| Misa Ogura | [MisaOgura](https://github.com/MisaOgura) | [@misa_ogura](https://twitter.com/misa_ogura) | [LinkedIn](https://www.linkedin.com/in/misa-ogura-m-phil-855335120/) | [Medium](https://medium.com/@misaogura) |
