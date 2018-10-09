@@ -9,6 +9,7 @@ Walking in London at night can be scary & dangerous - it would be good if your m
 ## Links
 
 [GitHub repository](https://github.com/MisaOgura/light-my-way)
+
 [Light My Way](https://light-my-way.firebaseapp.com/)
 
 ## Acknowledgement
