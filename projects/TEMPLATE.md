@@ -29,3 +29,7 @@ Cite any tools or sources of information you've used within the project.
 ## Contributors
 
 Last, but not least, names of the proud contributors please!
+
+| Name | GitHub | Twitter | LinkedIn | Other |
+| :--- | :--- | :--- | :--- | :--- |
+| Member 1 | member1 | @member1 | - | - |
