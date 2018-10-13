@@ -4,7 +4,7 @@ Here, you can find projects that attendeets worked on during the WDD #TechItForw
 
 ## About WDD
 
-[WDD (Women Driven Development)](https://womendrivendev.org/) is an organisation founded by [two software eingineers](https://womendrivendev.org/team), Phoebe Greig and Misa Ogura, with the aim to drive more diversity and inclusion in tech :rainbow: and facilitate the sponsor/sponsee relationships in more organic ways :handshake:
+[WDD (Women Driven Development)](https://womendrivendev.org/) is an organisation founded by [two software engineers](https://womendrivendev.org/team), Phoebe Greig and Misa Ogura, with the aim to drive more diversity and inclusion in tech :rainbow: and facilitate the sponsor/sponsee relationships in more organic ways :handshake:
 
 We want to achieve this by bringing gender minorities and tech leaders together in the form of hackathons and other practical events.
 
