@@ -10,9 +10,9 @@ class Subscription extends Component {
       <form>
         <label>
           Name:
-          <input type="text" name="name" />
+          <input type="text" name="name" autocomplete="off"/>
         </label>
-        <label>
+        <label class="custom-select">
           Looking For :
           <select value={this.state.value} onChange={this.handleChange}>
             <option value="mentor">Mentor</option>
