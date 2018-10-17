@@ -32,4 +32,10 @@ Last, but not least, names of the proud contributors please!
 
 | Name | GitHub | Twitter | LinkedIn | Other |
 | :--- | :--- | :--- | :--- | :--- |
-| Mihaela | https://github.com/MyaElla | @MyaElla | https://uk.linkedin.com/in/mihaelaciobanu3 | - |
+| Mihaela Ciobanu | [MyaElla](https://github.com/MyaElla) | [@MyaElla](https://twitter.com/MyaElla) | [Mihaela C. LinkedIn](https://uk.linkedin.com/in/mihaelaciobanu3) | - |
+| Adiba Maduegbuna | [AdibaM](https://github.com/AdibaM) |  [@adibamaduegbuna](https://twitter.com/adibamaduegbuna) | [Adiba M.](https://www.linkedin.com/in/adibam/)  |   |
+| Kristine Grivcova |   |   |   |   |
+| Reyhaneh Esmaielbeiki | [reyeb](https://github.com/reyeb) |  -  | [Reyhaneh E.](https://www.linkedin.com/in/reyhaneh-esmaielbeiki-081b157/)  |   |
+| joanna rusznica |   |   |   |   |
+| bilan mohamed |   |   |   |   |
+|  Robert Simpson  |   |   |  Googler |   |
