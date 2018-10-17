@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import fetch from 'isomorphic-fetch'
+import Image from './Images/hermione.jpg'
 
 function fetchMentors() {
   fetch('http://localhost:3000/mentors')
@@ -10,8 +11,9 @@ function fetchMentors() {
 class Profile extends Component {
   render() {
     return (
-      <div>
+      <div className="profil">
         <h4>Hermione Granger</h4>
+        <img src={Image}/>
         <h4>Your Matches</h4>
         {fetchMentors()}
       </div>

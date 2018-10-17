@@ -11,7 +11,7 @@ body {
   justify-content: center;
   background-color: #bcd1db33;
   .App {
-    width: 600px;
+    width: 500px;
     height: 600px;
     background-color: white;
     border: 1px solid #bcd1db96;
@@ -20,10 +20,20 @@ body {
     align-items: center;
     margin-top: 30px;
     border-radius: 25px;
+    img {
+      width: 100%;
+    }
+    .profil {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
     .header {
       h1 {
+        font-family: Reenie Beanie;
         color: var(--blue);
-        font-size: 45px;
+        font-size: 80px;
+        margin-top: 20px;
         margin-bottom: 0px;
       }
       font-family: Audiowide;
@@ -63,7 +73,6 @@ body {
         float: left;
         list-style: none;
         margin-right: 1em;
-        margin: 0 20px!important;
       }
 
       li a {
@@ -72,6 +81,7 @@ body {
         float: left;
         font-size: 25px;
         padding: 12px;
+        margin: 0 15px !important;
       }
 
       li a:hover {
