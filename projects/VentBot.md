@@ -15,8 +15,9 @@ Often, people facing a stressful work environment are looking for a safe place t
 
 ## Acknowledgement
 
-[Tutorial - How to Make a Basic DialogFlow (API.AI) Agent](https://www.youtube.com/watch?time_continue=1&v=HqfN9qjNj9A)
-[Dialog Flow](https://dialogflow.com/)
+**[Tutorial - How to Make a Basic DialogFlow (API.AI) Agent](https://www.youtube.com/watch?time_continue=1&v=HqfN9qjNj9A)**
+
+**[Dialog Flow](https://dialogflow.com/)**
 
 ## Contributors
 
