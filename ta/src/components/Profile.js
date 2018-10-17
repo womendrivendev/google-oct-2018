@@ -4,12 +4,6 @@ import React, { Component } from 'react'
 import fetch from 'isomorphic-fetch'
 import Image from './Images/hermione.jpg'
 
-function fetchMentors() {
-  fetch('http://localhost:3000/mentors')
-    .then(response => response.json())
-    .then(json => console.log(json))
-}
-
 class Profile extends Component {
   state = {
     mentors: []
@@ -34,7 +28,7 @@ class Profile extends Component {
               {mentor.expertises.map(expertise => {
                 return (
                   <ul>
-                    <li>{expertise}</li>
+                    <li key={expertise}>{expertise}</li>
                   </ul>
                 )
               })}
