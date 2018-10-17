@@ -1,5 +1,3 @@
-// import fetch from 'isomorphic-fetch'
-import axios from 'axios'
 import React, { Component } from 'react'
 import fetch from 'isomorphic-fetch'
 import Image from './Images/hermione.jpg'
