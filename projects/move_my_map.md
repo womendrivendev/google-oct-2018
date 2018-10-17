@@ -36,7 +36,7 @@ Last, but not least, names of the proud contributors please!
 
 | Name | GitHub | Twitter | LinkedIn | Other |
 | :--- | :--- | :--- | :--- | :--- |
-| Elle Haproff | https://github.com/EleanorHaproff | @EleanorHaproff | https://www.linkedin.com/in/eleanorhaproff/ | https://aijs.rocks/ |
-| Hedvika Toncrova | https://github.com/HedvikaToncrova | - | - | - |
-| Sophie Gill | https://github.com/soph-g | @_sophiegill | https://www.linkedin.com/in/sophie-gill-1a893110/ | https://wordpress.com/view/sophgill.wordpress.com |
-| Suzy Wallace | https://github.com/skw32 | - | - | - |
+| Elle Haproff | [EllaHaproff](https://github.com/EleanorHaproff) | [@EleanorHaproff](https://twitter.com/EleanorHaproff) | [Ella Haproff LinkedIn](https://www.linkedin.com/in/eleanorhaproff/) | [aijs.rocks](https://aijs.rocks/) |
+| Hedvika Toncrova | [HedvikaToncrova](https://github.com/HedvikaToncrova) | - | - | - |
+| Sophie Gill | [soph-g](https://github.com/soph-g) | [@_sophiegill](https://twitter.com/_sophiegill) | [Sophie Gill LinkedIn](https://www.linkedin.com/in/sophie-gill-1a893110/) | [Blog](https://wordpress.com/view/sophgill.wordpress.com) |
+| Suzy Wallace | [skw32](https://github.com/skw32) | - | - | - |
