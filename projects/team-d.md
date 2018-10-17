@@ -25,10 +25,10 @@ Cite any tools or sources of information you've used within the project.
 
 Last, but not least, names of the proud contributors please!
 
-| Name | GitHub | Twitter |
-| :--- | :--- | :--- |
-| Mary | [MarySalemme](https://github.com/MarySalemme) | - |
-| Jane | [janemaguire](https://github.com/janemaguire) | [@realslimjaney](https://twitter.com/realslimjaney) |
-| Meghana | member1 | @member1 |
-| Remi| [roduyemi](https://github.com/roduyemi) | - |
-| Nat| [njseeto](https://github.com/njseeto) | [@NatalieSeeto](https://twitter.com/NatalieSeeto) |
+| Name | GitHub | Twitter | Email |
+| :--- | :--- | :--- | :--- |
+| Mary | [MarySalemme](https://github.com/MarySalemme) | - | - |
+| Jane | [janemaguire](https://github.com/janemaguire) | [@realslimjaney](https://twitter.com/realslimjaney) | - |
+| Meghana | - | - | sreemeghana@google.com |
+| Remi| [roduyemi](https://github.com/roduyemi) | - | - |
+| Nat| [njseeto](https://github.com/njseeto) | [@NatalieSeeto](https://twitter.com/NatalieSeeto) | - |
