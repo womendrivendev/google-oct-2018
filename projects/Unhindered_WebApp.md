@@ -11,7 +11,7 @@ Here are some questions to help you get going...
 A: Wheelchair and Mobility Scooter users
 
 - What problem is it trying to solve? 
-A: This is the perfect app for those who are mobility-impaired to find restraunts, cafes, pubs and bars which are mibility friendly.
+A: This is the perfect app for those who are mobility-impaired to find restaurants, cafes, pubs and bars which are mobility friendly.
 
 - What was the motivation befind? 
 A: To help the social life of people who are mobility-impaired
