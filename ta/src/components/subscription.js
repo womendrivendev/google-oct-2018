@@ -9,6 +9,13 @@ class Subscription extends Component {
     location: "",
     gender: ""
   };
+
+  handleChange = ({ target: input }) => {
+    const person = { ...this.state.person };
+    person[input.name] = input.value;
+    this.setState({ person });
+  };
+
   render() {
     return (
       <form>

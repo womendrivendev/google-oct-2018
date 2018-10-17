@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import { BrowserRouter as Router, Route } from "react-router-dom"
+import { BrowserRouter as Router, Route } from "react-router-dom";
 
 import "./App.scss";
-import Subscription from "./subscription";
+import Subscription from "./components/Subscription";
 import Profile from "./components/Profile";
 import Header from "./components/Header";
 
