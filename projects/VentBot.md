@@ -11,7 +11,7 @@ Often, people facing a stressful work environment are looking for a safe place t
 
 [VentBot repo](https://github.com/MyaElla/VentBot-oct-2018)
 
-'Feel free to share your project in any other forms of communication, such as blog posts, articles, drawings, photography, posts on social media etc.'
+[Presentation slides:](https://docs.google.com/presentation/d/1j2y7s14humEWpChUXx5EWsjuX-yxb21VlA932ZrYEYA/edit?usp=sharing) 
 
 ## Acknowledgement
 
