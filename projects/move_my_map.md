@@ -17,7 +17,9 @@ Wanted to try using TensorFlow JS to solve a real-world accessibility issue.
 
 ## Links
 
-[Move My Map GitHub](https://github.com/HedvikaToncrova/move_my_map)
+[Move My Map](https://movemymap.github.io/)
+
+[Move My Map GitHub](https://github.com/movemymap/movemymap.github.io)
 
 [Trello Board](https://trello.com/b/OsAIhFha/move-my-map)
 
@@ -29,6 +31,8 @@ Cite any tools or sources of information you've used within the project.
 [Google Maps API](https://developers.google.com/maps/documentation/)
 
 [TensorFlow Machine Learning](https://www.tensorflow.org/)
+
+[Inspiration](https://codepen.io/labofoz/full/WKRZZq)
 
 ## Contributors
 
