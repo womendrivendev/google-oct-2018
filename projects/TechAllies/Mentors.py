@@ -23,12 +23,12 @@ class Mentee():
 
 class Mentor():
     def __init__(self, name: str, expertises: set, meet: set,
-                 location={}, gender={}):
+                 location={}, gender=''):
         self.name = name
         self.expertises = list(expertises)
         self.meet = list(meet)
         self.location = list(location)
-        self.gender = list(gender)
+        self.gender = gender
 
         if not name:
             raise AttributeError()
@@ -36,7 +36,7 @@ class Mentor():
     def __repr__(self):
         return str(self.__dict__)
 
-    def has_matching_criteria(self, cKey: str, cVal: list) -> list:
+    def has_matching_criteria(self, cKey: str, cVal) -> list:
         if hasattr(self, cKey):
             # gender is a String
             return [c for c in cVal if c in self.__getattribute__(cKey)]
@@ -49,4 +49,4 @@ def gen_Mentors():
                  expertises={fake.random.choice(expertise_area)},
                  meet={'offline'},
                  location={'Manchester'},
-                 gender={fake.random.choice(gender)})
+                 gender=fake.random.choice(gender))
