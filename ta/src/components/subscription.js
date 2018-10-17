@@ -16,6 +16,23 @@ class Subscription extends Component {
     this.setState({ person });
   };
 
+  handleFormSubmit = e => {
+    e.preventDefault();
+    console.log("test");
+    const { name, gender } = this.state;
+
+    const formPayload = {
+      name,
+      gender,
+      lookingFor: [],
+      expertise: [],
+      meet: "offline",
+      location: ""
+    };
+
+    this.submitRequest(formPayload);
+  };
+
   render() {
     return (
       <form>
@@ -37,12 +54,11 @@ class Subscription extends Component {
         <label>
           Expertise:
           <select value={this.state.value} onChange={this.handleChange}>
-            <option value="skill1">Python</option>
-            <option value="skill2">Java</option>
-            <option value="skill3">JavaScript</option>
-            <option value="skill4">C++</option>
-            <option value="skill5">Big Data</option>
-            <option value="skill6">Block Chain</option>
+            <option value="skill1">Data Science</option>
+            <option value="skill2">Backend Engineer</option>
+            <option value="skill3">Frontend Engineer</option>
+            <option value="skill4">Full-stack Engineer</option>
+            <option value="skill5">Software Architect</option>
           </select>
         </label>
         <label>
