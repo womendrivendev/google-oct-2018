@@ -1,4 +1,5 @@
 from faker import Faker
+
 fake = Faker()
 
 expertise_area = ["Data Science",
@@ -21,12 +22,13 @@ class Mentee():
 
 
 class Mentor():
-    def __init__(self, name: str, expertises: set, meet: set, location={}, gender=''):
+    def __init__(self, name: str, expertises: set, meet: set,
+                 location={}, gender={}):
         self.name = name
         self.expertises = list(expertises)
         self.meet = list(meet)
         self.location = list(location)
-        self.gender = gender
+        self.gender = list(gender)
 
         if not name:
             raise AttributeError()
@@ -34,11 +36,12 @@ class Mentor():
     def __repr__(self):
         return str(self.__dict__)
 
-    def has_matching_criteria(self, cKey: str, cVal) -> bool:
+    def has_matching_criteria(self, cKey: str, cVal: list) -> list:
         if hasattr(self, cKey):
-            if cVal in self.__getattribute__(cKey):
-                return True
-        return False
+            # gender is a String
+            return [c for c in cVal if c in self.__getattribute__(cKey)]
+        else:
+            return []
 
 
 def gen_Mentors():
@@ -46,4 +49,4 @@ def gen_Mentors():
                  expertises={fake.random.choice(expertise_area)},
                  meet={'offline'},
                  location={'Manchester'},
-                 gender=fake.random.choice(gender))
+                 gender={fake.random.choice(gender)})

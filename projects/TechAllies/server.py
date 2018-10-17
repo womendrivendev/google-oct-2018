@@ -26,22 +26,22 @@ def post_mentee():
 
     mentors = {}  # {(mentor1, score), (mentor2, score)}
 
+    print("criteria", data['criterion'])
     for i in range(10):
         mentor = next(gen_Mentors())
-        score = count_matches(mentor, data['criterion'])
+        print('mentor', mentor)
+
+        matches = find_matches(mentor, data['criterion'])
+        score = len(matches)
+
+        print("matching criteria:", matches)
+        mentor = mentor.__repr__()
+
         if score in mentors:
             mentors[score].append(mentor)
         else:
             mentors[score] = [mentor]
-
-        # mentors.append((score, mentor))
-
-    # sorted(mentors, key=lambda x: x[0])
-    # mentors.sort(reverse=True)
-    # resp = json.dumps(mentors)
-    sorted_mentors = collections.OrderedDict(sorted(mentors.items()))
-    print(sorted_mentors)
-    return jsonify(sorted_mentors), 201
+    return jsonify(mentors), 201
 
 
 # takes in user form data
@@ -68,15 +68,15 @@ def post_mentee():
 #
 
 
-def count_matches(mentor: Mentor, criterion) -> bool:
-    matches = list(
-        filter(lambda c: mentor.has_matching_criteria(c, criterion[c]),
-               criterion.keys()))
-    count_m = 0
-    for m in matches:
-        if m:
-            count_m += 1
-    return count_m
+def find_matches(mentor: Mentor, criterion) -> bool:
+    matches = []
+    for c in criterion.keys():
+        match = mentor.has_matching_criteria(c, criterion[c])
+        print('matches', match)
+        if len(match) > 0:
+            matches.append(c)
+
+    return matches
 
 
 if __name__ == '__main__':
