@@ -1,0 +1,28 @@
+{
+  "mentors": [
+    {
+      "id": 1,
+      "name": "Lindsay Lohan",
+      "expertises": ["Data Science", "Backend"],
+      "meet": ["offline", "online"],
+      "location": ["Manchester"],
+      "gender": ["Female"]
+    },
+    {
+      "id": 2,
+      "name": "Lindsay Lohan",
+      "expertises": ["Frontend"],
+      "meet": ["online"],
+      "location": null,
+      "gender": null
+    },
+    {
+      "id": 3,
+      "name": "Lindsay Lohan",
+      "expertises": ["Infrastructure", "Automation"],
+      "meet": ["offline", "online"],
+      "location": ["London"],
+      "gender": ["Female"]
+    }
+  ]
+}
