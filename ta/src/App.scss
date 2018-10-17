@@ -12,7 +12,6 @@ body {
   background-color: #bcd1db33;
   .App {
     width: 500px;
-    height: 600px;
     background-color: white;
     border: 1px solid #bcd1db96;
     display: flex;
@@ -20,8 +19,28 @@ body {
     align-items: center;
     margin-top: 30px;
     border-radius: 25px;
+    .mentorContainer {
+      height: 250px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      img {
+        width: 80px;
+        height: 80px
+      }
+      .mentor {
+        display: flex;
+        flex-direction: row;
+        height: 100px;
+            width: 500px;
+    justify-content: space-around;
+      }
+    }
     img {
       width: 100%;
+    }
+    img.match {
+      width: 20px;
     }
     .profil {
       display: flex;
