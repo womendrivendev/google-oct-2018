@@ -2,7 +2,7 @@
   "mentors": [
     {
       "id": 1,
-      "name": "Lindsay Lohan",
+      "name": "Professor Mcgonagall",
       "expertises": ["Data Science", "Backend"],
       "meet": ["offline", "online"],
       "location": ["Manchester"],
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "name": "Lindsay Lohan",
+      "name": "Luna Lovegood",
       "expertises": ["Frontend"],
       "meet": ["online"],
       "location": null,
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "name": "Lindsay Lohan",
+      "name": "Nymphadora Tonks ",
       "expertises": ["Infrastructure", "Automation"],
       "meet": ["offline", "online"],
       "location": ["London"],
