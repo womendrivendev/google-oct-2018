@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { RegisterComponent } from './register/register.component';
 import { GroupingsComponent } from './groupings/groupings.component';
 import { ListAttendeesComponent } from './list-attendees/list-attendees.component';
+import { GroupComponent } from './group/group.component';
 
 
 const appRoutes: Routes = [
@@ -17,7 +18,8 @@ const appRoutes: Routes = [
     AppComponent,
     RegisterComponent,
     GroupingsComponent,
-    ListAttendeesComponent
+    ListAttendeesComponent,
+    GroupComponent
   ],
   imports: [
     BrowserModule,
