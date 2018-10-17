@@ -1,6 +1,5 @@
 import React, { Component } from "react";
-import logo from "./logo.svg";
-import "./App.css";
+import "./App.scss";
 import Subscription from "./subscription";
 
 class App extends Component {
