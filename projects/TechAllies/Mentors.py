@@ -39,9 +39,16 @@ class Mentor():
     def has_matching_criteria(self, cKey: str, cVal) -> list:
         if hasattr(self, cKey):
             # gender is a String
-            return [c for c in cVal if c in self.__getattribute__(cKey)]
-        else:
-            return []
+            if cKey == "gender":
+                if cVal == self.gender:
+                    return [cVal]
+            elif cKey == "expertises":
+                match = [c for c in cVal if c in self.expertises]
+                return match
+            else:
+                match = [c for c in cVal if c in self.__getattribute__(cKey)]
+                return match
+        return []
 
 
 def gen_Mentors():

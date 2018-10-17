@@ -23,18 +23,12 @@ def hello():
 def post_mentee():
     # header needs to be application/json
     data = request.get_json()
-
     mentors = {}  # {(mentor1, score), (mentor2, score)}
 
-    print("criteria", data['criterion'])
     for i in range(10):
         mentor = next(gen_Mentors())
-        print('mentor', mentor)
-
         matches = find_matches(mentor, data['criterion'])
         score = len(matches)
-
-        print("matching criteria:", matches)
         mentor = mentor.__repr__()
 
         if score in mentors:
@@ -72,10 +66,8 @@ def find_matches(mentor: Mentor, criterion) -> bool:
     matches = []
     for c in criterion.keys():
         match = mentor.has_matching_criteria(c, criterion[c])
-        print('matches', match)
         if len(match) > 0:
             matches.append(c)
-
     return matches
 
 
