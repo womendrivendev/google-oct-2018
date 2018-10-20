@@ -7,18 +7,18 @@ A: To create a WebApp that offers a simple way to search for wheelchair-accessib
 
 Here are some questions to help you get going...
 
-- What/who is it for? 
+- What/who is it for?
 A: Wheelchair and Mobility Scooter users
 
-- What problem is it trying to solve? 
+- What problem is it trying to solve?
 A: This is the perfect app for those who are mobility-impaired to find restaurants, cafes, pubs and bars which are mobility friendly.
 
-- What was the motivation befind? 
+- What was the motivation befind?
 A: To help the social life of people who are mobility-impaired
 
-- What inspired you? 
+- What inspired you?
 
-- How did you come up with the idea? 
+- How did you come up with the idea?
 
 ## Links
 
@@ -36,6 +36,7 @@ Cite any tools or sources of information you've used within the project.
 Last, but not least, names of the proud contributors please!
 
 | Name | GitHub | Twitter | LinkedIn | Other |
+| :--- | :--- | :--- | :--- | :--- |
 | Mahsa Dilmaghani | https://github.com/mahsadilmaghani | @m_dilmaghani | https://www.linkedin.com/in/m-dilmaghani/ |
 | India Dearlove | https://github.com/indiadearlove | https://www.linkedin.com/in/indiadearlove/ |
 | Hannah Capocci-Hunt | https://github.com/viciouskitten | https://www.linkedin.com/in/hannahcapocci/ |
