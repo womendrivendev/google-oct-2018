@@ -55,6 +55,6 @@ https://developers.google.com/sheets/
 
 Last, but not least, names of the proud contributors please!
 
-| Name             | GitHub  | Twitter    | Medium         | Other |
-| :--------------- | :------ | :--------- | :------------- | :---- |
-| Kara de la Marck | @MarckK | @KaraMarck | @karadelamarck | ---   |
+| Name | GitHub | Twitter | Medium | Other |
+| :--- | :--- | :--- | :--- | :--- |
+| Kara de la Marck | @MarckK | @KaraMarck | @karadelamarck | --- |
