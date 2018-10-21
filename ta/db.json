@@ -1,0 +1,28 @@
+{
+  "mentors": [
+    {
+      "id": 1,
+      "name": "Professor Mcgonagall",
+      "expertises": ["Data Science", "Backend"],
+      "meet": ["offline", "online"],
+      "location": ["Manchester"],
+      "gender": ["Female"]
+    },
+    {
+      "id": 2,
+      "name": "Luna Lovegood",
+      "expertises": ["Frontend"],
+      "meet": ["online"],
+      "location": null,
+      "gender": null
+    },
+    {
+      "id": 3,
+      "name": "Nymphadora Tonks ",
+      "expertises": ["Infrastructure", "Automation"],
+      "meet": ["offline", "online"],
+      "location": ["London"],
+      "gender": ["Female"]
+    }
+  ]
+}
