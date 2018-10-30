@@ -10,6 +10,10 @@ We want to achieve this by bringing gender minorities and tech leaders together 
 
 [WDD Tech It Forward](https://womendrivendev.org/events) is a hackathon where the focus is on the quality of the code, the people and the journey, with the aim of using technology to support communities and _tech things forward_ :muscle:
 
+You can read about the day and voices from attendees on our [Medium Publication](https://medium.com/women-driven-development).
+
+Also one of our amazing supporters, [Eddie Jaoude](http://eddiejaoude.github.io/), has documented the day and published it on his [YouTube channel](https://www.youtube.com/watch?v=OVJEsc3QP8E), so do check it out!
+
 ## What is this repo for
 
 WDD advocates for the open source community - each project belongs to their own creators. We think it's important that these projects are available for people to browse.
