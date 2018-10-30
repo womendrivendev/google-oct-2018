@@ -27,3 +27,13 @@ In each entry, you will find a project overview such as how the idea came about 
 6. The idea is that you will update the file and push more commits to the PR as your project evolves.
 7. After the hackathon, we will merge all the PRs.
 8. As you work on the project, even after the hackathon, feel free to raise more PRs. We'll keep an eye out!
+
+## Projects
+
+- [Codebar](./projects/codebar-pairing.md)
+- [Emojify](./projects/emojify.md)
+- [Light my way](./projects/light-my-way.md)
+- [Move my map](./projects/move-my-map.md)
+- [Plas-tique](./projects/plas-tique.md)
+- [Unhindered](./projects/unhindered.md)
+- [VentBot](./projects/vent-bot.md)
