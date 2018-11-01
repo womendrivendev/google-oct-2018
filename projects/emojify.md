@@ -14,7 +14,7 @@ The app idea extends and includes this use case.
 
 ## Links
 
-Repo Link - https://github.com/sarahlikeshiny/wdd_hackathon_project
+Repo Link - https://github.com/sarahlikeshiny/wdd_hackday
 
 
 ## Contributors
